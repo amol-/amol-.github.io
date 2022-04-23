@@ -1,0 +1,34 @@
+<!-- Use icons from fontawesome when you are adding new item in the contact list  -->             
+ 
+<div class="sidebar-wrapper">
+    <div class="profile-container">
+        <img class="profile-img" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{% if PIC %}{{ PIC }}{% else %}profile.png{% endif %}" alt="profile picture" />
+        <h1 class="name"><a href="/">{% if NAME %}{{NAME}}{% else %}Alan Doe{% endif %}</a></h1>
+    </div><!--//profile-container-->
+    
+    <div class="contact-container container-block">
+        <ul class="list-unstyled contact-list">
+                       
+            <li class="website"><i class="fa fa-globe"></i><a href="http://{{WEBSITE}}" target="_blank">{{WEBSITE}}</a></li>
+
+            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{LINKEDIN}}" target="_blank">linkedin.com/in/{{LINKEDIN}}</a></li>
+            
+            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{GITHUB}}" target="_blank">github.com/{{GITHUB}}</a></li>
+
+            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{TWITTER}}" target="_blank">{{TWITTER}}</a></li>
+
+            <li class="twitter"><i class="fa fa-medium"></i><a href="https://medium.com/{{MEDIUM}}" target="_blank">{{MEDIUM}}</a></li>
+        </ul>
+    </div><!--//contact-container-->
+   {% include 'includes/pages.html' %}
+   	
+    <div class="interests-container container-block">
+        <h2 class="container-block-title">Interests</h2>
+        <ul class="list-unstyled interests-list">
+            {% for cat, null in categories %}
+                <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            {% endfor %}	
+        </ul>
+    </div>
+
+</div><!--//sidebar-wrapper-->

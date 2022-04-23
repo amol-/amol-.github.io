@@ -1,0 +1,13 @@
+<div class="container-block">
+	<h2 class="container-block-title">Pages</h2>
+	<ul class="list-unstyled interests-list">
+				{% for title, link in MENUITEMS %}
+					<li><a href="{{ link }}">{{ title }}</a></li>
+				{% endfor %}
+				{% if DISPLAY_PAGES_ON_MENU %}
+					{% for page in pages %}
+						<li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+					{% endfor %}
+				{% endif %}
+    </ul>
+</div><!--//interests-->
