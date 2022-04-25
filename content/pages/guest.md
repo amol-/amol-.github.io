@@ -1,7 +1,7 @@
 Title: Guest Invitations
 
-Here is a list of shows where I have been invited
-as a Guest, mostly Podcasts.
+Here is a list of shows I had the pleasure to attend as a guest,
+mostly Podcasts.
 
 <style>
 .main-wrapper li {
@@ -9,6 +9,12 @@ as a Guest, mostly Podcasts.
     margin-bottom: 10px;
 }
 </style>
+
+### The Python Show
+
+A Python related show that was aired on Youtube during the COVID-19 panedemic
+
+* [The Python Show - Episode 3](https://www.youtube.com/watch?v=8Ux1OTXkSnc)
 
 ### TalkPython To Me
 
