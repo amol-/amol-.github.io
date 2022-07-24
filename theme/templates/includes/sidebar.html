@@ -23,7 +23,7 @@
    {% include 'includes/pages.html' %}
    	
     <div class="interests-container container-block">
-        <h2 class="container-block-title">Interests</h2>
+        <h2 class="container-block-title">Hobbies</h2>
         <ul class="list-unstyled interests-list">
             {% for cat, null in categories %}
                 <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
