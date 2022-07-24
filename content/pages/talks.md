@@ -14,6 +14,7 @@ Here is the section with videos of my talks collected on [PyVideo](https://pyvid
 
 Here is a collection my talks at the various editions of EuroPython
 
+* EuroPython 2022 [PyArrow and the future of data analytics]()
 * EuroPython 2019 [Python Standard Library Hidden Gems](https://www.youtube.com/watch?v=fhn0p8uS788)
 * EuroPython 2017 [Protocols and Practices enforcing in Python through bytecode and inspection](https://www.youtube.com/watch?v=MguKwkrp0tw)
 * EuroPython 2017 [Kajiki, the fast and validated template engine you were looking for](https://www.youtube.com/watch?v=aHt5-WCaJyA)
@@ -29,8 +30,10 @@ Here is a collection my talks at the various editions of EuroPython
 
 ### PyCon Italia
 
-The Italian conference on Python, the recorded talks are all in Italian
+The Italian conference on Python, the recorded talks are mostly in Italian
 
+* Pycon Italia 2022 [Testing Documentation](https://www.youtube.com/watch?v=mzTLccpsw30)
+* Pycon Italia 2022 [Introduction to Property-Based testing using Hypothesis](https://www.youtube.com/watch?v=WBMfwr9Tu24)
 * PyCon Italia 2019 [Python Standard Library, the hidden gems](https://www.youtube.com/watch?v=jwDCzC1SNHk)
 * PyCon Italia 2017 [ByteCode al supporto dei test per protocolli ed enforcing di best practices](https://www.youtube.com/watch?v=_je9eN32F-4)
 * PyCon Italia 2016 [DukyPuy liberarsi dalle catene di NodeJS](https://www.youtube.com/watch?v=mjjQXd6lZDE)
