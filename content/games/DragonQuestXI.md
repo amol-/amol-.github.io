@@ -4,6 +4,9 @@ Modified: 2022-04-29 19:30
 Category: Gaming
 Slug: dragon-quest-xi
 Authors: Alessandro Molina
-Summary: Dragon Quest XI Summary
+Summary: Dragon Quest XI
 
-This is the content of my super blog post.
+![dragonquest xi](Dragon-Quest-XI.jpg)
+
+I recently played Dragon Quest XI on Google Stadia and I really e enjoyed it a lot.
+Stadia allowed me to get to it during my spare time, wherever I was and even if I only had only a few minutes free. Paired with the autobattle system that the game provides, I could focus on the nice story and characters without getting bored by random battles. Definitely a game I would recommend.
