@@ -2,7 +2,7 @@ AUTHOR = 'Alessandro Molina'
 SITENAME = 'Alessandro Molina'
 SITEURL = ''
 THEME = 'theme'
-DESCRIPTION = "Alessandro Molina, Software Engineer, Engineering Director and Entrepeneur based in Italy."
+SITEDESCRIPTION = "Alessandro Molina, Software Engineer, Engineering Director and Entrepeneur based in Italy."
 
 PATH = 'content'
 
