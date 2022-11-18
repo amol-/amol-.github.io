@@ -14,7 +14,7 @@ Here is the section with videos of my talks collected on [PyVideo](https://pyvid
 
 Here is a collection my talks at the various editions of EuroPython
 
-* EuroPython 2022 [PyArrow and the future of data analytics]()
+* EuroPython 2022 [PyArrow and the future of data analytics](https://youtu.be/6aWX9bZizu4)
 * EuroPython 2019 [Python Standard Library Hidden Gems](https://www.youtube.com/watch?v=fhn0p8uS788)
 * EuroPython 2017 [Protocols and Practices enforcing in Python through bytecode and inspection](https://www.youtube.com/watch?v=MguKwkrp0tw)
 * EuroPython 2017 [Kajiki, the fast and validated template engine you were looking for](https://www.youtube.com/watch?v=aHt5-WCaJyA)
@@ -44,6 +44,7 @@ The Italian conference on Python, the recorded talks are mostly in Italian
 
 ### PyCon Ireland
 
+* PyCon IE 2022 [Apache Arrow as a full stack data engineering solution]()
 * PyCon IE 2016 [Kajiki, the fast and validated template engine you were looking for](https://www.slideshare.net/__amol__/pyconie-2016-kajiki-the-fast-and-validated-template-engine-your-were-looking-for)
 
 ### PyCon UK
