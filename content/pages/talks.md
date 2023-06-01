@@ -32,6 +32,7 @@ Here is a collection my talks at the various editions of EuroPython
 
 The Italian conference on Python, the recorded talks are mostly in Italian
 
+* Pycon Italia 2023 [Apache Arrow as a full stack data engineering solution](https://www.youtube.com/live/8uONg9jZysg?feature=share&t=26435)
 * Pycon Italia 2022 [Testing Documentation](https://www.youtube.com/watch?v=mzTLccpsw30)
 * Pycon Italia 2022 [Introduction to Property-Based testing using Hypothesis](https://www.youtube.com/watch?v=WBMfwr9Tu24)
 * PyCon Italia 2019 [Python Standard Library, the hidden gems](https://www.youtube.com/watch?v=jwDCzC1SNHk)
@@ -44,8 +45,8 @@ The Italian conference on Python, the recorded talks are mostly in Italian
 
 ### PyCon Ireland
 
-* PyCon IE 2022 [Apache Arrow as a full stack data engineering solution]()
-* PyCon IE 2016 [Kajiki, the fast and validated template engine you were looking for](https://www.slideshare.net/__amol__/pyconie-2016-kajiki-the-fast-and-validated-template-engine-your-were-looking-for)
+* PyCon IE 2022 [PyArrow stack for data engineering](https://www.slideshare.net/__amol__/pycon-ireland-2022-pyarrow-full-stackpdf)
+* PyCon IE 2016 [Kajiki, the fast and validated template engine you were looking for](https://www.youtube.com/watch?v=E59U9M2NQMk)
 
 ### PyCon UK
 
