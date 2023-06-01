@@ -16,7 +16,7 @@ jobs:
           make clean && make html
       - name: Align gh-page branch
         run: |
-          git pull gh-pages
+          git pull origin gh-pages
       - name: Prepare Website
         run: |
           echo "alessandro.molina.fyi" > output/CNAME && ghp-import output
