@@ -14,6 +14,7 @@ Here is the section with videos of my talks collected on [PyVideo](https://pyvid
 
 Here is a collection my talks at the various editions of EuroPython
 
+* EuroPython 2023 [Apache Arrow and Substrait, the secret foundations of Data Engineering](https://www.youtube.com/watch?v=5_EF4KC8XO4&t=16s)
 * EuroPython 2022 [PyArrow and the future of data analytics](https://youtu.be/6aWX9bZizu4)
 * EuroPython 2019 [Python Standard Library Hidden Gems](https://www.youtube.com/watch?v=fhn0p8uS788)
 * EuroPython 2017 [Protocols and Practices enforcing in Python through bytecode and inspection](https://www.youtube.com/watch?v=MguKwkrp0tw)
@@ -32,6 +33,7 @@ Here is a collection my talks at the various editions of EuroPython
 
 The Italian conference on Python, the recorded talks are mostly in Italian
 
+* Pycon Italia 2025 **Composable Data Systems**
 * Pycon Italia 2023 [Apache Arrow as a full stack data engineering solution](https://www.youtube.com/live/8uONg9jZysg?feature=share&t=26435)
 * Pycon Italia 2022 [Testing Documentation](https://www.youtube.com/watch?v=mzTLccpsw30)
 * Pycon Italia 2022 [Introduction to Property-Based testing using Hypothesis](https://www.youtube.com/watch?v=WBMfwr9Tu24)
