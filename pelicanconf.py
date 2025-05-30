@@ -12,7 +12,7 @@ DEFAULT_LANG = 'en'
 
 NAME = "Alessandro Molina"
 WEBSITE = "alessandro.molina.fyi"
-LINKEDIN = "amol0"
+LINKEDIN = "alessandro-molina1"
 GITHUB = "amol-"
 MASTODON = "@_amol_"
 MEDIUM = "@__amol__"
