@@ -14,7 +14,7 @@ NAME = "Alessandro Molina"
 WEBSITE = "alessandro.molina.fyi"
 LINKEDIN = "amol0"
 GITHUB = "amol-"
-TWITTER = "@_amol_"
+MASTODON = "@_amol_"
 MEDIUM = "@__amol__"
 
 # Feed generation is usually not desired when developing
