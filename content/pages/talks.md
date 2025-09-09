@@ -33,7 +33,7 @@ Here is a collection my talks at the various editions of EuroPython
 
 The Italian conference on Python, the recorded talks are mostly in Italian
 
-* Pycon Italia 2025 **Composable Data Systems**
+* Pycon Italia 2025 [Composable Data Systems](https://www.youtube.com/watch?v=IeagiefYptU) **Keynote**
 * Pycon Italia 2023 [Apache Arrow as a full stack data engineering solution](https://www.youtube.com/live/8uONg9jZysg?feature=share&t=26435)
 * Pycon Italia 2022 [Testing Documentation](https://www.youtube.com/watch?v=mzTLccpsw30)
 * Pycon Italia 2022 [Introduction to Property-Based testing using Hypothesis](https://www.youtube.com/watch?v=WBMfwr9Tu24)
