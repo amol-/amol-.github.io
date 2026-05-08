@@ -15,7 +15,7 @@ WEBSITE = "alessandro.molina.fyi"
 LINKEDIN = "alessandro-molina1"
 GITHUB = "amol-"
 MASTODON = "@_amol_"
-MEDIUM = "@__amol__"
+SUBSTACK = "amolnotes.substack.com"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
